@@ -2,26 +2,6 @@
 
     ──> Competitive-programming 
 
-        ──> Carbon-things
-
-            ──> 1-Watermalon.png
-
-            ──> 2-Way_too_long_words.png
-
-            ──> 3-Team.png
-            
-            ──> 4-Theatre_square.png
-            
-            ──> 5-Next_round.png
-
-            ──> 6-Domino_piling.png
-
-            ──> 7-Bit++.png
-
-            ──> 8-Beautiful_matrix.png
-
-            ──> 9-Petya_and_strings.png
-
         ──> Problemset 
 
             ──> 1-Watermalon.txt
