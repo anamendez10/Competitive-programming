@@ -22,6 +22,14 @@
 
             ──> 9-Petya_and_strings.txt
 
+            ──> 10-Helpful_maths.txt
+
+            ──> 11-Word_capitalization.txt
+
+            ──> 12-String_task.txt
+
+            ──> 11-Boy_or_girl.txt
+
         ──> Solutions
 
             ──> 1-watermelon.cpp
@@ -41,3 +49,11 @@
             ──> 8-beautiful_matrix.cpp
 
             ──> 9-petya_and_strings.cpp
+
+            ──> 10-helpful_maths.cpp
+
+            ──> 11-word_capitalization.cpp
+
+            ──> 12-string_task.cpp
+
+            ──> 13-boy_or_girl.cpp
