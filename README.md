@@ -4,56 +4,81 @@
 
         ──> Problemset 
 
-            ──> 1-Watermalon.txt
+            ──> 4A-Watermalon.txt
 
-            ──> 2-Way_too_long_words.txt
+            ──> 71A-Way_too_long_words.txt
 
-            ──> 3-Team.txt
+            ──> 231A-Team.txt
 
-            ──> 4-Theatre_square.txt
+            ──> 1A-Theatre_square.txt
             
-            ──> 5-Next_round.txt
+            ──> 158A-Next_round.txt
 
-            ──> 6-Domino_piling.txt
+            ──> 50A-Domino_piling.txt
 
-            ──> 7-Bit++.txt
+            ──> 282A-Bit++.txt
 
-            ──> 8-Beautiful_matrix.txt
+            ──> 263A-Beautiful_matrix.txt
 
-            ──> 9-Petya_and_strings.txt
+            ──> 112A-Petya_and_strings.txt
 
-            ──> 10-Helpful_maths.txt
+            ──> 339A-Helpful_maths.txt
 
-            ──> 11-Word_capitalization.txt
+            ──> 281A-Word_capitalization.txt
 
-            ──> 12-String_task.txt
+            ──> 118A-String_task.txt
 
-            ──> 11-Boy_or_girl.txt
+            ──> 236A-Boy_or_girl.txt
 
+            ──> 266A-Stones_on_the_table.txt
+
+            ──> 791A-Bear_and_big_brother.txt
+
+            ──> 546A-Soldier_and_bananas.txt
+
+            ──> 617A-Elephant.txt
+
+            ──> 69A-Young_physicist.txt
+
+            ──> 59A-Word.txt
+
+    
         ──> Solutions
 
-            ──> 1-watermelon.cpp
+            ──> 4A-watermelon.cpp
 
-            ──> 2-wat_too_long_words.cpp
+            ──> 71A-way_too_long_words.cpp
 
-            ──> 3-team.cpp
+            ──> 231A-team.cpp
 
-            ──> 4-theatre_square.cpp
+            ──> 1A-theatre_square.cpp
             
-            ──> 5-text_round.cpp
+            ──> 158A-text_round.cpp
 
-            ──> 6-domino_piling.cpp
+            ──> 50A-domino_piling.cpp
 
-            ──> 7-bit++.cpp
+            ──> 282A-bit++.cpp
 
-            ──> 8-beautiful_matrix.cpp
+            ──> 263A-beautiful_matrix.cpp
 
-            ──> 9-petya_and_strings.cpp
+            ──> 112A-petya_and_strings.cpp
 
-            ──> 10-helpful_maths.cpp
+            ──> 339A-helpful_maths.cpp
 
-            ──> 11-word_capitalization.cpp
+            ──> 281A-word_capitalization.cpp
 
-            ──> 12-string_task.cpp
+            ──> 118A-string_task.cpp
 
-            ──> 13-boy_or_girl.cpp
+            ──> 236A-boy_or_girl.cpp
+
+            ──> 266A-stones_on_the_table.cpp
+
+            ──> 791A-bear_and_big_brother.cpp
+
+            ──> 546A-soldier_and_bananas.cpp
+
+            ──> 617A-elephant.cpp
+
+            ──> 69A-young_physicist.cpp
+
+            ──> 59A-word.cpp
